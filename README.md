@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Santiago from Argentina<br><br><br>Despite having started programming recently, I am already delighted with the experience of discovering a new challenge every day and being able to learn something new to put it into practice and be able to create beautiful web designs.</p>
+<p align="left">I'm Santiago from Argentina<br><br>Despite having started programming recently, I am already delighted with the experience of discovering a new challenge every day and being able to learn something new to put it into practice and be able to create beautiful web designs.</p>
 
 ###
 
