@@ -51,6 +51,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
 </div>
 
+## Skills and Technologies
+
+- JavaScript
+- React
+- Redux
+- StyledComponents
+- Tailwind CSS
+- Bootsrap
+- Node.js
+- Next.js
+- Express
+- PostgreSQL
+- MongoDB
+- Git
+
+## Languages
+
+- Spanish: native
+- English: Advanced
+- French: basic
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
