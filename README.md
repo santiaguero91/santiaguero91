@@ -54,25 +54,40 @@
 
 </div>
 
-<h1>Tecnologias:</h1>
-<!-- 📍Programming language: JavaScript, Typescript, Python. -->
-<!-- 📍Web Technologies: NodeJS, CSS, HTML. -->
-<!-- 📍Framework/ Libraries: ReactJS, Redux, Express. -->
-<!-- 📍Database: PostgreSQL, Sequelize. -->
-<!-- 📍Project Management: Trello, Slack. -->
-<!-- 📍Version control: Git, Github. -->
+<div>
+## Skills and Technologies
+Languages: 
+- JavaScript
+- Typescript
+- Python
 
-| Front-End | Back-End | Data Base |  Gestion  | Languages  |
-| --------- | -------- | --------- | --------- | JavaScrip  |
-| React     | NodeJS   | MySQL     |  Trello   | Typescript |
-| Apollo    | NestJs   | PostgreSQL|  Slack    | Python     |
-| TailWind  | Django   | MongoDB   |  Github   |            |
-| MUI       | Express  |           |  Scrum    |            |
-| Emotion   | GraphQl  |           |  Docker   |            |
-| HTML      |          |           |           |            |
-| CSS       |          |           |           |            |
+Frontend: 
+- React
+- Next.js
+- Redux
+- StyledComponents
+- Tailwind CSS
+- Bootsrap
+- Apollo
 
-<hr></hr>
+Backend:
+- Node.js
+- Express
+- Nest.js
+- GraphQl
+
+Databases:
+- PostgreSQL
+- MongoDB
+- MySQL
+
+Tools:
+-Trello
+-Slack
+-Figma
+- Git
+- Github
+</div>
 
 ## Languages
 
