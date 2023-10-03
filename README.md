@@ -91,3 +91,9 @@
 </div>
 
 ###
+<h3 align="left"> Contact: </h3>
+<p>📢Linkedin:https://www.linkedin.com/in/santiagoaguerourquiza/</p>
+<p>📑Email:santiagonaguero@gmail.com</p>
+<P>https://portfolio-santiago-aguero-91.vercel.app</p>
+
+
