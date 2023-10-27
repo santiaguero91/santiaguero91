@@ -26,7 +26,8 @@
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">I am a Fullstack Web Developer with great ability to work in a team and carry out web projects with the greatest enthusiasm and responsibility.
 </p>
-
+<p align="left">I love working on challenging projects that allow me to apply my technical skills and creativity to find solutions to complex problems. But, in addition to my technical skills, I pride myself on being a supportive, empathetic, proactive person with solid values. For me, it is important to work as a team and collaborate effectively to achieve common goals. I am someone who is always willing to help and support my colleagues and clients, because I believe that together we can achieve great things.
+</p>
 
 ###
 
